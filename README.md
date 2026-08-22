@@ -8,4 +8,4 @@ C/C++, Flex (Lexical Analyzer), Bison (Syntax Analyzer).
 ### Algorithmic & Systems Highlights
 * **Lexical & Syntactic Analysis:** Engineered a deterministic finite automaton (DFA) pipeline to tokenize raw string inputs and validate complex grammar rules under strict time and memory constraints.
 * **AST Construction & Traversal:** Built and optimized an Abstract Syntax Tree to manage hierarchical execution logic. Enforced strict C++ memory management to prevent leaks during recursive tree traversals and node evaluations.
-* **Algorithmic Correctness:** Designed the parsing engine to handle edge cases, syntax errors, and ambiguous grammar inputs gracefully, ensuring predictable and deterministic code execution—a critical requirement for high-performance computing and trading infrastructure.
+* **Algorithmic Correctness:** Designed the parsing engine to handle edge cases, syntax errors, and ambiguous grammar inputs gracefully, ensuring predictable and deterministic code execution.
