@@ -1,5 +1,7 @@
 # C++ Compiler Engine & Abstract Syntax Tree (AST)
 
+_Developed for the Language Processors course (Procesadores del Lenguaje, 2025-26), Computer Science and Mathematics double degree, University of Granada._
+
 A custom language compiler and parsing engine built from scratch to demonstrate low-level systems engineering, formal grammar validation and memory-safe execution.
 
 ### Tech Stack
